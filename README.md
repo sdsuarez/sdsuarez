@@ -8,7 +8,9 @@
   
 
 - ❓ Ask me about anything related to Linux, i love it.  
-  
+
+
+- ⚡ Spanish, English, Portuguese
 
 <br/>  
 
@@ -40,3 +42,12 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
 </div>
+  
+  ## Github Stats  
+  
+  <table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdsuarez&hide_border=true&layout=compact" align="right" style="width: 100%" />
+
+
+</td><td valign="top" width="50%">

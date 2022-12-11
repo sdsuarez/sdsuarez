@@ -49,7 +49,7 @@
   
  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdsuarez&hide_border=true&layout=compact" align="right" style="width: 50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdsuarez&hide_border=true&layout=compact" align="center" style="width: 50%" />
 
 
 

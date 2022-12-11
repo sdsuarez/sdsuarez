@@ -10,7 +10,7 @@
 - ❓ Ask me about anything related to Linux, i love it.  
 
 
-- ⚡ Spanish, English, Portuguese
+- ⚡ Speaking Spanish, English, Portuguese
 
 <br/>  
 
@@ -33,8 +33,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### coming soon  
 <div align="center">  
